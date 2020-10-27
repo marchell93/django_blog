@@ -1,1 +1,1 @@
-# django_blog
+# Project django_news
